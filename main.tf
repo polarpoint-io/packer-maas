@@ -6,7 +6,6 @@ terraform {
   }
 }
 
-
 provider "packer" {}
 
 data "packer_version" "version" {}
